@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "e8b4ea94b39a8520",
+    "type": "split",
+    "children": [
+      {
+        "id": "df52f255a6e17ba0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20-Diary/2022-10-09.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "687357708cbc920f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc1edcafd063cfb",
+        "type": "tabs",
+        "dimension": 54.46650124069479,
+        "children": [
+          {
+            "id": "37c8f55a8ef7a09c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3290ae399933a0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d21402f76dc34c3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d877e8285f98a38a",
+        "type": "tabs",
+        "dimension": 45.53349875930521,
+        "children": [
+          {
+            "id": "b37bc3d287f74512",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "80430a4f104c0c57",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ee52b332527fc75",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255
+  },
+  "right": {
+    "id": "4e390742ffc29613",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c25b22f0c7d5f0",
+        "type": "tabs",
+        "dimension": 41.33165829145729,
+        "children": [
+          {
+            "id": "ca4e910af4602420",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "340969ccd24905e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20-Diary/2022-10-09.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0b3485207df574dd",
+        "type": "tabs",
+        "dimension": 58.66834170854271,
+        "children": [
+          {
+            "id": "041c78328387b373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20-Diary/2022-10-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc4a81bfd6624166",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20-Diary/2022-10-09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2ae90cb6049dbe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc371ae36bc5eac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BT_Example/88-Template/常用工具.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265
+  },
+  "active": "df52f255a6e17ba0",
+  "lastOpenFiles": [
+    "BT_Example/88-Template/home.md",
+    "BT_Example/00-Tips/🥑Blue Topaz Themes Tips.md",
+    "BT_Example/88-Template/button.md",
+    "20220816193131.md",
+    "BT_Example/77-Example/◾ Dataview相关实例/通过下拉框检索文件示例.md",
+    "BT_Example/77-Example/◾ Dataview相关实例/项目追踪（完成的字数和任务）.md",
+    "BT_Example/77-Example/各类列表和彩虹大纲线.md",
+    "BT_Example/77-Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
+    "BT_Example/88-Template/常用工具.md",
+    "20220816151405.md"
+  ]
+}

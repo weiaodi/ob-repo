@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "e8b4ea94b39a8520",
+    "type": "split",
+    "children": [
+      {
+        "id": "3677ff8e04f4552a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a255b1198d484b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue-docs/runtime/render.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "render"
+            }
+          },
+          {
+            "id": "e78294944347c2c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a95af7f3ec90b2a8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/无极UI-core.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "无极UI-core.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "687357708cbc920f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc1edcafd063cfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c8f55a8ef7a09c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b3290ae399933a0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "である",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "83e6a29bf5e814de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b2ae90cb6049dbe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "4e390742ffc29613",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c25b22f0c7d5f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4e910af4602420",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "340969ccd24905e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "web-beginner/documents/01-javascript/base-js/03、变量、作用域与内存.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03、变量、作用域与内存"
+            }
+          },
+          {
+            "id": "2228a820d8e127eb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "dc4a81bfd6624166",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "web-beginner/documents/01-javascript/base-js/03、变量、作用域与内存.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03、变量、作用域与内存"
+            }
+          },
+          {
+            "id": "53f4187386d21868",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Z-temp/日译汉课文.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 日译汉课文"
+            }
+          },
+          {
+            "id": "84984f83d63de628",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "workspaces:Manage workspace layouts": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e78294944347c2c4",
+  "lastOpenFiles": [
+    "A-script/Attachment/Screenshot_20250105_091637_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091635_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091634_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091632_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091617_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091616_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091603_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091559_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091545_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091543_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/Screenshot_20250105_091542_com_zhiyong_japanese_word_MainActivity.jpg",
+    "A-script/Attachment/ffeb9fea8673fb76616649479715c69d.pic",
+    "A-script/Attachment/第一课.pdf",
+    "A-script/Attachment/第三课.pdf",
+    "A-script/Attachment/第二课.pdf",
+    "Excalidraw/Drawing 2023-02-17 15.37.23.excalidraw.md",
+    "面试材料.md",
+    "Excalidraw/无极UI-core.excalidraw.md",
+    "vue-docs/runtime/render.md",
+    "vue-docs/runtime/patch.md",
+    "vue-docs/runtime/scheduler.md",
+    "vue-docs/runtime/vnodePre.md",
+    "vue-docs/reactive/reactive.md",
+    "vue-docs/reactive/ref.md",
+    "vue-docs/reactive/effect.md",
+    "vue-docs/compiler/parse_pre.md",
+    "vue-docs/compiler/parse_pre2.md",
+    "vue-docs/compiler/transform.md",
+    "vue-docs/compiler/codegen.md",
+    "vue-docs/reactive/computed.md",
+    "vue-docs/compiler/directiveTransforms.md",
+    "vue-docs/compiler/compile.md",
+    "vue-docs/compiler/parse.md",
+    "vue-docs/introduction.md",
+    "vue-docs/README.md",
+    "Untitled.md",
+    "vue-docs/runtime/createApp.md",
+    "vue-docs/runtime/diff.md",
+    "vue-docs/runtime/component.md",
+    "vue-docs/images",
+    "vue-docs/runtime",
+    "vue-docs/reactive",
+    "vue-docs/index.html",
+    "vue-docs/compiler",
+    "vue-docs",
+    "docs/compiler/transform.md",
+    "Untitled.canvas",
+    "z-projectIncubation/保卫开皮巴拉家园.canvas",
+    "z-projectIncubation/保卫开皮巴拉家园 1.canvas"
+  ]
+}

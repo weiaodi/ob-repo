@@ -1,0 +1,41 @@
+{
+  "activePreset": "Default",
+  "activeFullscreenPreset": "Default",
+  "separateFullscreenPreset": false,
+  "presets": {
+    "Default": {
+      "plugin-editor-width-slider;1": {
+        "position": 5,
+        "visible": true
+      },
+      "plugin-obsidian-git-obsidian-git-statusbar-idle-obsidian-git-statusbar-status;1": {
+        "position": 1,
+        "visible": false
+      },
+      "plugin-obsidian-git;1": {
+        "position": 2,
+        "visible": false
+      },
+      "plugin-backlink;1": {
+        "position": 3,
+        "visible": false
+      },
+      "plugin-word-count;1": {
+        "position": 4,
+        "visible": true
+      },
+      "plugin-editor-status;1": {
+        "position": 0,
+        "visible": true
+      },
+      "plugin-obsidian-git;2": {
+        "position": 7,
+        "visible": false
+      }
+    }
+  },
+  "presetsOrder": [
+    "Default"
+  ],
+  "version": "2.1.2"
+}
