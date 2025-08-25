@@ -25,6 +25,7 @@
     "excalidraw-open-md": "checkbox",
     "updated": "datetime",
     "created": "datetime",
-    "view": "checkbox"
+    "view": "checkbox",
+    "excalidraw-embed-md": "checkbox"
   }
 }

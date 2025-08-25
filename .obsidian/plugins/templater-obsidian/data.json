@@ -14,20 +14,8 @@
       "template": "A-script/Templater/tp-通用模板.md"
     },
     {
-      "folder": "Z-quickNotes",
+      "folder": "work",
       "template": "A-script/Templater/tp-速写模板.md"
-    },
-    {
-      "folder": "Z-temp",
-      "template": "A-script/Templater/tp-临时模板.md"
-    },
-    {
-      "folder": "Z-word",
-      "template": "A-script/Templater/tp-单词模板.md"
-    },
-    {
-      "folder": "ZZ-todo",
-      "template": "A-script/Templater/tp-日记模板.md"
     }
   ],
   "enable_file_templates": false,
