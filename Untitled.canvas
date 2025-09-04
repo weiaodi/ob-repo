@@ -1,9 +1,4 @@
 {
-	"nodes":[
-		{"id":"1fc5f188fe6a012e","type":"group","x":-880,"y":-740,"width":1273,"height":798,"color":"2","label":"Untitled group"},
-		{"id":"e20a1d2304c2704f","type":"file","file":"变量声明.md","x":-780,"y":-580,"width":400,"height":400},
-		{"id":"5e82f84dff2725cc","type":"file","file":"作用域.md","x":300,"y":-220,"width":400,"height":400},
-		{"id":"7312e76025bb32ff","type":"file","file":"JavaScript 基础.md","x":-1080,"y":48,"width":400,"height":400}
-	],
+	"nodes":[],
 	"edges":[]
 }

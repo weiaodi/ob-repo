@@ -11,5 +11,7 @@
   "statusbar-organizer",
   "obsidian-to-anki-plugin",
   "obsidian-regex-replace",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "excalibrain",
+  "dataview"
 ]

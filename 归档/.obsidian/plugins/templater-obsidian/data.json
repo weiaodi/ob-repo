@@ -1,0 +1,36 @@
+{
+  "command_timeout": 6,
+  "templates_folder": "A-script/Templater",
+  "templates_pairs": [],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "A-script/Templater/tp-通用模板.md"
+    },
+    {
+      "folder": "work",
+      "template": "A-script/Templater/tp-速写模板.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "A-script/Templater/tp-日期模板.md",
+    "A-script/Templater/tp-句型规范模板.md"
+  ],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}
