@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/代码运行堆栈分布.md",
+                "file": "work/飞书性能分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "代码运行堆栈分布"
+              "title": "飞书性能分析"
             }
           },
           {
@@ -301,9 +301,10 @@
   },
   "active": "e7f9d4d8589c044a",
   "lastOpenFiles": [
+    "work/代码运行堆栈分布.md",
+    "work/飞书性能分析.md",
     "A-script/Attachment/Pasted image 20260202110207.png",
     "work/牛顿迭代法.md",
-    "work/代码运行堆栈分布.md",
     "work/计算机原理的重要性.md",
     "work/自信表达.md",
     "work/互联网已经将绝大部分信息差抹除了，知识已经随处可以获得，为何大部分人依旧无法获得大幅突破？.md",
@@ -336,7 +337,6 @@
     "A-script/Attachment/1762858056448 2.jpg",
     "A-script/Attachment/1762858056417.jpg",
     "A-script/Attachment/1762858056417 1.jpg",
-    "A-script/Attachment/1762858056543.jpg",
     "Excalidraw/Untitled.canvas",
     "Untitled.base",
     "Untitled.canvas",
