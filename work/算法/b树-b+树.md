@@ -7,6 +7,16 @@ updated: 2026-02-10-16-26-15
 ---
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.cnblogs.com](https://www.cnblogs.com/henuliulei/p/15114440.html)
 
+# b树 b+树
+
+  
+
+[https://www.cnblogs.com/henuliulei/p/15114440.html](https://www.cnblogs.com/henuliulei/p/15114440.html)
+
+[https://www.cnblogs.com/ljbguanli/p/19035471](https://www.cnblogs.com/ljbguanli/p/19035471)
+
+[https://zhuanlan.zhihu.com/p/149287061](https://zhuanlan.zhihu.com/p/149287061)
+
 ### B 树
 
 **前言** 
