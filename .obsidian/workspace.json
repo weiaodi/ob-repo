@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "console/步骤四：blink通过mojom转发日志给devtools.md",
+                "file": "成长/自信表达.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 步骤四：blink通过mojom转发日志给devtools"
+              "title": "大纲"
             }
           },
           {
@@ -153,11 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "成长/自信表达.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "出链"
             }
           },
           {
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "成长/自信表达.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "反向链接"
             }
           },
           {
@@ -190,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37c8f55a8ef7a09c",
+  "active": "84984f83d63de628",
   "lastOpenFiles": [
     "剪藏/思考/信息差消失后为何难以突破.md",
     "工作/实习生工作总结.md",
