@@ -4,131 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "0a7a19e8c735d6a8",
+        "id": "fc9a64919585234c",
         "type": "tabs",
         "children": [
           {
-            "id": "8bcf5ad83962c0bc",
+            "id": "41e3844936bca36a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssg.md",
+                "file": "首页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ssg"
+              "title": "首页"
             }
           },
           {
-            "id": "a387a961cf4b49c2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-17 14.57.13.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-17 14.57.13.excalidraw"
-            }
-          },
-          {
-            "id": "e7f9d4d8589c044a",
+            "id": "8dad7b2120ca827a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/react/solid和react的状态管理区别.md",
+                "file": "成长/自信表达.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "solid和react的状态管理区别"
-            }
-          },
-          {
-            "id": "667d3a80cb2eb193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "d705fe4af4ec5125",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-17 15.08.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-17 15.08.32.excalidraw"
-            }
-          },
-          {
-            "id": "c040d1b87e8a04ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "eeffd8ebc6010c8c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-23 20.37.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-23 20.37.29.excalidraw"
-            }
-          },
-          {
-            "id": "1e14798d3b94a5e6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-11-25 15.55.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-25 15.55.56.excalidraw"
-            }
-          },
-          {
-            "id": "902a17081a05dacc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "自信表达"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,10 +58,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -160,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#topic/career",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,17 +80,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "83e6a29bf5e814de",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "搜索"
             }
           },
           {
@@ -188,10 +90,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           }
         ]
@@ -294,18 +198,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
       "obsidian-git:Open Git source control": true,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "markdown-importer:Open format converter": true,
-      "workspaces:Manage workspace layouts": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
@@ -314,41 +218,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "667d3a80cb2eb193",
+  "active": "37c8f55a8ef7a09c",
   "lastOpenFiles": [
-    "work/react/React 组件实例的状态存储模型、函数组件重执行的变量创建机制、闭包与执行上下文的绑定关系.md",
-    "work/react/solid和react的状态管理区别.md",
-    "work/算法/为什么二分法一般比m 分法(m != 2)更优？.md",
-    "work/react",
-    "work/算法/b树-b+树.md",
-    "work/飞书性能分析.md",
-    "work/速算倒数平方根.md",
-    "work/算法",
-    "work/沟通技巧.md",
-    "work/互联网已经将绝大部分信息差抹除了，知识已经随处可以获得，为何大部分人依旧无法获得大幅突破？.md",
+    "剪藏/思考/信息差消失后为何难以突破.md",
+    "工作/实习生工作总结.md",
+    "剪藏/思考/计算机原理的重要性.md",
+    "成长/沟通技巧.md",
+    "未命名.canvas",
+    "剪藏/AI/走进 AI Agent.md",
+    "Clippings/Janus 接入指南 - 云文档.md",
+    "Clippings",
     "work/vibecoding产生的问题.md",
-    "work/代码运行堆栈分布.md",
-    "Untitled 2.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "work/牛顿迭代法.md",
-    "work/计算机原理的重要性.md",
-    "work/自信表达.md",
+    "首页.md",
+    "剪藏/设计/配色风格色卡.md",
+    "剪藏/设计/六大世界著名色系.md",
+    "剪藏/前端/飞书文档性能分析.md",
+    "剪藏/前端/Fiber 节点.md",
+    "剪藏/产品/产品为何总慢半拍.md",
+    "剪藏/AI/大规模 Skill 命中准确率.md",
+    "剪藏/AI/Vibe Coding 产生的问题.md",
+    "剪藏/AI/Spring 之父的新 AI 框架.md",
+    "剪藏/AI/Codex：做以前不敢做的事.md",
+    "剪藏/AI/Claude Code 缓存命中率优化.md",
+    "剪藏/AI/AI Agent 不需要 UI 但需要什么.md",
+    "剪藏/AI/AI API 缓存命中.md",
+    "剪藏/设计",
+    "剪藏/思考",
+    "剪藏/前端",
+    "剪藏/产品",
+    "剪藏/AI",
+    "剪藏",
+    "成长/自信表达.md",
+    "成长",
+    "工作",
+    "学习/算法/牛顿迭代法.md",
+    "学习/算法/快速倒数平方根.md",
+    "学习/算法/二分法为何优于 m 分法.md",
+    "学习/算法/B树与B+树.md",
+    "学习/算法",
     "A-script/Attachment/Pasted image 20260202110207.png",
-    "Excalidraw/Drawing 2026-01-27 11.15.05.excalidraw.md",
     "A-script/Attachment/Pasted Image 20260127112014_367.png",
     "A-script/Attachment/Pasted Image 20260127111738_303.png",
-    "Excalidraw/Drawing 2025-09-17 14.57.13.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-17 15.08.32.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-23 20.37.29.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-25 15.55.56.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-01 11.49.19.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-03 15.21.30.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-21 20.39.27.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-01 19.32.09.excalidraw.md",
-    "ssg.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "A-script/Attachment/Pasted image 20251224142856.png",
     "A-script/Attachment/Pasted Image 20251125173854_664.png",
     "A-script/Attachment/1762858056517 2.jpg",
@@ -358,12 +268,6 @@
     "A-script/Attachment/1762858056417 1.jpg",
     "Excalidraw/Untitled.canvas",
     "Untitled.canvas",
-    "归档 2",
-    "docs",
-    "归档",
-    "归档.zip",
-    "console",
-    "10_前端开发-魏奥迪.pdf",
     "console的实现原理.canvas",
     "z-projectIncubation/保卫开皮巴拉家园.canvas",
     "z-projectIncubation/保卫开皮巴拉家园 1.canvas"

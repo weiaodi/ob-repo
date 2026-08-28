@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b6925daee4b98097","x":-815,"y":-920,"width":1695,"height":1340,"type":"group","label":"未命名组"},
+		{"id":"32d1d028cc7cac0c","x":-685,"y":-417,"width":508,"height":334,"type":"file","file":"剪藏/AI/走进 AI Agent.md"},
+		{"id":"deb7256457554288","x":-120,"y":-520,"width":580,"height":540,"type":"file","file":"剪藏/AI/AI API 缓存命中.md"},
+		{"id":"25d18e395f3d3753","x":260,"y":-480,"width":600,"height":461,"type":"file","file":"首页.md"},
+		{"id":"83a76e5b65767205","x":-260,"y":-450,"width":400,"height":400,"type":"file","file":"剪藏/思考/计算机原理的重要性.md"},
+		{"id":"412ccf1a5b42e952","x":-795,"y":-450,"width":400,"height":400,"type":"file","file":"剪藏/AI/走进 AI Agent.md"}
+	],
+	"edges":[
+		{"id":"cc91f8d237d55c96","fromNode":"32d1d028cc7cac0c","fromSide":"top","toNode":"deb7256457554288","toSide":"top"},
+		{"id":"54d32224acc292d5","fromNode":"32d1d028cc7cac0c","fromSide":"right","toNode":"deb7256457554288","toSide":"left","toEnd":"none","color":"5"},
+		{"id":"4c4b455d6db081dc","fromNode":"32d1d028cc7cac0c","fromSide":"right","toNode":"83a76e5b65767205","toSide":"top","color":"6"}
+	]
+}
