@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fc9a64919585234c",
+        "id": "ef4fa1e54975f398",
         "type": "tabs",
         "children": [
           {
-            "id": "41e3844936bca36a",
+            "id": "ab73bb8b68bbbbb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "首页.md",
+                "file": "个人能力/understanding_people_52_week_learning_plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "首页"
-            }
-          },
-          {
-            "id": "8dad7b2120ca827a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "成长/自信表达.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "自信表达"
+              "title": "understanding_people_52_week_learning_plan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,12 +42,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -80,7 +64,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -95,7 +79,20 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b1cecf55ea923c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "成长/自信表达.md",
+                "file": "未命名 1.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -153,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "成长/自信表达.md",
+                "file": "未命名 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -167,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "成长/自信表达.md",
+                "file": "未命名 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,19 +192,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false,
-      "bases:新建数据库": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": true,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
@@ -219,56 +216,58 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "84984f83d63de628",
+  "active": "ab73bb8b68bbbbb9",
   "lastOpenFiles": [
-    "剪藏/思考/信息差消失后为何难以突破.md",
-    "工作/实习生工作总结.md",
-    "剪藏/思考/计算机原理的重要性.md",
-    "成长/沟通技巧.md",
-    "未命名.canvas",
-    "剪藏/AI/走进 AI Agent.md",
+    "个人能力/common_conditions_health_judgment_24_week_plan.md",
+    "个人能力/investing_learning_plan_24_weeks.md",
+    "个人能力/high_eq_conversation_16_week_plan.md",
+    "个人能力/fitness_learning_plan_24_weeks.md",
+    "个人能力/AGENTS.md",
+    "健身动作.md",
+    "个人能力/understanding_people_52_week_learning_plan.md",
+    "个人能力/README.md",
+    "个人能力",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "Untitled 5.md",
+    "Untitled 6.md",
     "Clippings/Janus 接入指南 - 云文档.md",
-    "Clippings",
-    "work/vibecoding产生的问题.md",
+    "A-script/Attachment/Pasted image 20261014155302.png",
+    "A-script/Attachment/Pasted image 20261014155138.png",
+    "A-script/Attachment/Pasted image 20261014154834.png",
+    "Excalidraw/Drawing 2025-08-06 10.58.54.excalidraw.md",
+    "Untitled",
+    "Untitled 1.md",
+    "A-script/Templater/tp-通用模板.md",
+    "A-script/Attachment/Pasted image 20260908202653.png",
     "首页.md",
-    "剪藏/设计/配色风格色卡.md",
+    "未命名.md",
+    "未命名.base",
+    "未命名.canvas",
+    "未命名 1.canvas",
     "剪藏/设计/六大世界著名色系.md",
-    "剪藏/前端/飞书文档性能分析.md",
-    "剪藏/前端/Fiber 节点.md",
-    "剪藏/产品/产品为何总慢半拍.md",
-    "剪藏/AI/大规模 Skill 命中准确率.md",
-    "剪藏/AI/Vibe Coding 产生的问题.md",
-    "剪藏/AI/Spring 之父的新 AI 框架.md",
-    "剪藏/AI/Codex：做以前不敢做的事.md",
-    "剪藏/AI/Claude Code 缓存命中率优化.md",
-    "剪藏/AI/AI Agent 不需要 UI 但需要什么.md",
-    "剪藏/AI/AI API 缓存命中.md",
+    "A-script/Templater/人物模板.md",
+    "A-script/Templater/tp-单词模板.md",
+    "A-script/Templater/tp-句型规范模板.md",
+    "A-script/Templater/tp-临时模板.md",
+    "A-script/Templater/tp-日记模板.md",
+    "Clippings",
     "剪藏/设计",
     "剪藏/思考",
     "剪藏/前端",
     "剪藏/产品",
     "剪藏/AI",
     "剪藏",
-    "成长/自信表达.md",
-    "成长",
-    "工作",
-    "学习/算法/牛顿迭代法.md",
-    "学习/算法/快速倒数平方根.md",
-    "学习/算法/二分法为何优于 m 分法.md",
-    "学习/算法/B树与B+树.md",
-    "学习/算法",
     "A-script/Attachment/Pasted image 20260202110207.png",
     "A-script/Attachment/Pasted Image 20260127112014_367.png",
     "A-script/Attachment/Pasted Image 20260127111738_303.png",
     "A-script/Attachment/Pasted image 20251224142856.png",
     "A-script/Attachment/Pasted Image 20251125173854_664.png",
     "A-script/Attachment/1762858056517 2.jpg",
-    "A-script/Attachment/1762858056448 3.jpg",
-    "A-script/Attachment/1762858056448 2.jpg",
-    "A-script/Attachment/1762858056417.jpg",
-    "A-script/Attachment/1762858056417 1.jpg",
     "Excalidraw/Untitled.canvas",
-    "Untitled.canvas",
     "console的实现原理.canvas",
     "z-projectIncubation/保卫开皮巴拉家园.canvas",
     "z-projectIncubation/保卫开皮巴拉家园 1.canvas"

@@ -1,13 +1,13 @@
 {
+  "data_version": 2,
   "command_timeout": 6,
   "templates_folder": "A-script/Templater",
   "templates_pairs": [],
-  "trigger_on_file_creation": true,
+  "trigger_on_file_creation_mode": "folder",
   "auto_jump_to_cursor": true,
-  "enable_system_commands": true,
+  "jump_to_cursor_after_file_name": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "/",
@@ -18,13 +18,7 @@
       "template": "A-script/Templater/tp-速写模板.md"
     }
   ],
-  "enable_file_templates": false,
-  "file_templates": [
-    {
-      "regex": ".*",
-      "template": ""
-    }
-  ],
+  "file_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
@@ -32,5 +26,7 @@
     "A-script/Templater/tp-句型规范模板.md"
   ],
   "startup_templates": [],
+  "intellisense_render": "1",
+  "ignore_folders_on_creation": [],
   "enable_ribbon_icon": true
 }
