@@ -10,6 +10,7 @@
 | [understanding_people_52_week_learning_plan.md](understanding_people_52_week_learning_plan.md) | 理解人 52 周计划：情绪、动机、沟通、权力、博弈 | 主线教材 |
 | [high_eq_conversation_16_week_plan.md](high_eq_conversation_16_week_plan.md) | 高情商聊天 16 周计划：对话机制、情绪观察、共情、寒暄与困难场景 | 主线教材的配套实践线 |
 | [fitness_learning_plan_24_weeks.md](fitness_learning_plan_24_weeks.md) | 健身 24 周计划：身体机制、消化、训练、饮食、睡眠 | 主线教材 |
+| [mental_health_self_check_guide.md](mental_health_self_check_guide.md) | 心理健康自查指南：症状识别、风险判断、5P 分析与求助路径 | 补充参考资料 |
 | [common_conditions_health_judgment_24_week_plan.md](common_conditions_health_judgment_24_week_plan.md) | 健康判断 24 周计划：症状观察、风险分层、常见疾病、检查与用药 | 主线教材 |
 
 AI 助手的工作约定见 [AGENTS.md](AGENTS.md)：角色、来源纪律和禁止事项。

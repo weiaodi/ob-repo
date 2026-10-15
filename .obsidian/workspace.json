@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人能力/understanding_people_52_week_learning_plan.md",
+                "file": "个人能力/fitness_learning_plan_24_weeks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "understanding_people_52_week_learning_plan"
+              "title": "fitness_learning_plan_24_weeks"
             }
           }
         ]
@@ -150,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "个人能力/fitness_learning_plan_24_weeks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Outgoing links"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "个人能力/fitness_learning_plan_24_weeks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Backlinks"
             }
           },
           {
@@ -188,12 +188,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,16 +215,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ab73bb8b68bbbbb9",
+  "active": "2228a820d8e127eb",
   "lastOpenFiles": [
-    "个人能力/common_conditions_health_judgment_24_week_plan.md",
-    "个人能力/investing_learning_plan_24_weeks.md",
     "个人能力/high_eq_conversation_16_week_plan.md",
+    "个人能力/investing_learning_plan_24_weeks.md",
+    "个人能力/mental_health_self_check_guide.md",
+    "个人能力/README.md",
+    "个人能力/understanding_people_52_week_learning_plan.md",
+    "个人能力/common_conditions_health_judgment_24_week_plan.md",
     "个人能力/fitness_learning_plan_24_weeks.md",
     "个人能力/AGENTS.md",
     "健身动作.md",
-    "个人能力/understanding_people_52_week_learning_plan.md",
-    "个人能力/README.md",
     "个人能力",
     "Untitled.md",
     "Untitled.canvas",
@@ -253,7 +253,6 @@
     "A-script/Templater/tp-单词模板.md",
     "A-script/Templater/tp-句型规范模板.md",
     "A-script/Templater/tp-临时模板.md",
-    "A-script/Templater/tp-日记模板.md",
     "Clippings",
     "剪藏/设计",
     "剪藏/思考",
