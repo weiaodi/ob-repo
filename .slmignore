@@ -1,0 +1,3 @@
+# SuperLocalMemory 扫描排除规则（不影响 Obsidian 使用）
+# Excalidraw 绘图数据是压缩二进制，对语义记忆无价值
+Excalidraw/
